@@ -28,6 +28,7 @@
 ## Overview
 
 <img src="./src/assets/ecommerceAngular.png"/>
+<img src="./src/assets/ecommerceAngular.png"/>
 
 Ecommerce developed with angular 17, allows basic ecommerce functions with API consumption
 
